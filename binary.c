@@ -5,7 +5,6 @@ Input 1:
 10
 Output 1:
 1010
-
 Input 2:
 7
 Output 2:
